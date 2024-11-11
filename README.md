@@ -1,1 +1,1 @@
-# Absurdle
+# Absurdle is a game in which the user has to guess a target word. The length of the words used is based on user choice. An emoji string is returned after the user inputs their guess. A green tile means the letter is in the exact position of the target word, a yellow tile means the letter is in the target word but not in the right position, and a gray tile means the letter is not in the word. The program has no set target word at the start, but instead narrows down possible target words in a manner that attempts to prolong the game. 
